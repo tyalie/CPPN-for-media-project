@@ -1,1 +1,0 @@
-# CPPN-for-media-project

@@ -1,2 +1,0 @@
-model_checkpoint_path: "flower_net_full.ckpt"
-all_model_checkpoint_paths: "flower_net_full.ckpt"
